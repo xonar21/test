@@ -1,0 +1,15 @@
+.header__menu {
+    display: flex;
+    margin: 26px 0 26px;
+    padding: 0;
+}
+
+@media screen and (max-width: 769px) {
+    .header__menu {
+        margin: 0;
+        background-image: url(../../../images/mobileMenu.png);
+        width: 22px;
+        height: 12px;
+        background-repeat: no-repeat;
+    }
+}

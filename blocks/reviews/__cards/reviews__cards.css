@@ -1,0 +1,15 @@
+.reviews__cards {
+    display: flex;
+    max-width: 1215px;
+    margin: 32px auto 0;
+    padding: 0;
+    list-style: none;
+    justify-content: space-between;
+}
+
+@media screen and (max-width: 1214px) {
+    .reviews__cards {
+        
+        justify-content: space-evenly;
+    }
+}

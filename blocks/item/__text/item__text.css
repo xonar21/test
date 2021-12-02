@@ -1,0 +1,9 @@
+
+
+@media screen and (max-width: 1214px) {
+    .item__text {
+        display: flex;
+        flex-direction: column;
+        max-width: 270px;
+    }
+}

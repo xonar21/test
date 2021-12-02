@@ -1,0 +1,16 @@
+.block3__image1 {
+    position: absolute;
+    z-index: 1;
+}
+
+@media screen and (max-width: 1214px) {
+    .block3__image1 {
+       width: 351px;
+    }
+}
+
+@media screen and (max-width: 321px) {
+    .block3__image1 {
+       width: 288px;
+    }
+}

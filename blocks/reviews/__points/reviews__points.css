@@ -1,0 +1,8 @@
+.reviews__points {
+    display: flex;
+    max-width: 1215px;
+    margin: 50px auto 0;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+}

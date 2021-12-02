@@ -1,0 +1,16 @@
+@media screen and (max-width: 1214px) {
+    .block3__img-group {
+       width: 351px;
+       height: 265px;
+       align-self: center;
+    }
+}
+
+
+@media screen and (max-width: 321px) {
+    .block3__img-group {
+       width: 288px;
+       height: 217px;
+       margin-bottom: 27px;
+    }
+}

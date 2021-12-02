@@ -1,0 +1,10 @@
+.reviews__arrow-right {
+    align-self: center;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 1214px) {
+    .reviews__arrow-right {
+        display: none;
+    }
+}

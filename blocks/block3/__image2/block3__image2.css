@@ -1,0 +1,15 @@
+.block3__image2 {
+    position: absolute;
+}
+
+@media screen and (max-width: 1214px) {
+    .block3__image2 {
+       width: 351px;
+    }
+}
+
+@media screen and (max-width: 321px) {
+    .block3__image2 {
+       width: 288px;
+    }
+}

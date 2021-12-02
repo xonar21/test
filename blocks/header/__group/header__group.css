@@ -1,0 +1,13 @@
+.header__group {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1215px;
+    margin: auto;
+    padding: 0 16px;
+}
+
+@media screen and (max-width: 769px) {
+    .header__group {
+        padding-top: 34px;
+    }
+}

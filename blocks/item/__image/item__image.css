@@ -1,0 +1,15 @@
+.item__image {
+    margin-bottom: 16px;
+}
+
+@media screen and (max-width: 1214px) {
+    .item__image {
+        margin-right: 16px;
+    }
+}
+
+@media screen and (max-width: 321px) {
+    .item__image {
+        align-self: flex-start;
+    }
+}

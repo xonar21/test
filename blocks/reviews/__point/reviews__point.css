@@ -1,0 +1,14 @@
+.reviews__point {
+    background: url(../../../images/points.png);
+    width: 8px;
+    height: 8px;
+    margin-right: 8px;
+}
+
+.reviews__point:first-child {
+    background: url(../../../images/pointsActive.png);
+}
+
+.reviews__point:last-child {
+    margin-right: 0;
+} 

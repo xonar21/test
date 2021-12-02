@@ -1,0 +1,23 @@
+.block3__group {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 592px;
+    margin-right: 32px;
+}
+
+@media screen and (max-width: 1214px) {
+    .block3__group {
+       
+        max-width: 352px;
+
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .block3__group {
+       
+        text-align: center;
+        margin-right: 0;
+    }
+}

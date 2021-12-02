@@ -1,0 +1,14 @@
+.block3__title {
+    margin: 0;
+    margin-bottom: 18px;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 40px;
+}
+
+@media screen and (max-width: 1214px) {
+    .block3__title {
+        font-size: 20px;
+        line-height: 24px;
+    }
+}

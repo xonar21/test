@@ -1,0 +1,18 @@
+.block3__subtitle {
+    margin: 0;
+    margin-bottom: 28px;
+    font-size: 16px;
+    line-height: 28px;
+}
+
+.block3__subtitle:last-child {
+    margin-bottom: 0;
+}
+
+@media screen and (max-width: 1214px) {
+    .block3__subtitle {
+        font-size: 16px;
+        line-height: 28px;
+    }
+    
+}

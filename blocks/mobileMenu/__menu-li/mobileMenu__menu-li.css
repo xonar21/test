@@ -1,0 +1,12 @@
+.mobileMenu__menu-li {
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid #ECEFF2;
+    padding: 16px 0;
+    font-size: 18px;
+    line-height: 32px;
+}
+
+.mobileMenu__menu-li:last-child {
+    border-bottom: 1px solid #ECEFF2;
+}

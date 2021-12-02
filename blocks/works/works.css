@@ -1,0 +1,13 @@
+.works {
+    color: #191C1F;
+    max-width: 1215px;
+    margin: 80px auto 0;
+}
+
+
+
+@media screen and (max-width: 767px) {
+    .works {
+        margin-top: 56px;
+    }
+}

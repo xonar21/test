@@ -1,0 +1,26 @@
+.reviews__card {
+    background: #FFFFFF;
+    box-shadow: 0px 5px 24px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    width: 341px;
+    padding: 22px;
+    box-sizing: border-box;
+}
+
+@media screen and (max-width: 1214px) {
+    .reviews__card:nth-child(4) {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .reviews__card:nth-child(3) {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 321px) {
+    .reviews__card {
+        width: 288px;
+    }
+}
